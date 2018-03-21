@@ -23,7 +23,7 @@ All `readme` files will be finished later in time... I've just had this repo sit
     * INP [brainlove interpreter](https://github.com/martycagas/but-fit-projects/tree/master/inp-2)
     * IPA [NEON algorithm acceleration](https://github.com/martycagas/but-fit-projects/tree/master/ipa-arm-neon)
 * 4th semester
-    * IDS [database script](https://github.com/martycagas/but-fit-projects/tree/master/ids-semester-project)
+    * IDS [database script](https://github.com/martycagas/but-fit-projects/tree/master/ids)
     * IPK [ARP scanner](https://github.com/martycagas/but-fit-projects/tree/master/ipk-arp-scan)
     * IPP XQR - XML query can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/ipp-xqr)
     * IPP [Syntax highlighting](https://github.com/martycagas/but-fit-projects/tree/master/ipp-syn)
