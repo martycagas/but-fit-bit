@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project outputprefix="lightsout">
+
+	<!--  Project description -->
+	<name>Lights Out</name>
+	<author>Martin Cagas</author>
+	<authoremail>xcagas01@stud.fit.vutbr.cz</authoremail>
+	<revision>1.01</revision>
+	<description>Hra Lights Out na FPGA pripravku FITkit</description>
+
+	<!--  MCU part -->
+	<mcu>
+	    <file>main.c</file>
+	</mcu>
+
+	<!-- FPGA part -->
+	<fpga architecture="pc" dcmfrequency="25MHz">
+        <include>fpga/ctrls/vga/package.xml</include>
+        <include>fpga/ctrls/keyboard/package.xml</include>
+
+        <file>top.vhd</file>
+        <file>cell.vhd</file>
+        <file>bcd.vhd</file>
+        <file>cell_math_pack.vhd</file>
+        <file>char_rom.vhd</file>
+	</fpga>
+
+</project>

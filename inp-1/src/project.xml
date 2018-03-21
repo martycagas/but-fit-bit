@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+    <!--  Project description -->
+    <name>Rizeni maticoveho displeje z FPGA</name>
+    <author>Martin Cagas</author>
+    <authoremail>xcagas01@sgud.fit.vutbr.cz</authoremail>
+    <revision>1.0</revision>
+    <description>Displej 8x8 LED s casovym multiplexem rizeny z FPGA pres Xbus</description>
+
+    <!--  MCU part -->
+    <mcu>
+        <file>main.c</file>
+    </mcu>
+
+    <!-- FPGA part -->
+    <fpga toplevelentity="ledc8x8" ucffile="fpga/ledc8x8.ucf" architecture="none">
+        <file>ledc8x8.vhd</file>
+    </fpga>
+
+</project>
