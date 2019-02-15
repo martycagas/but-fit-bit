@@ -13,7 +13,7 @@ All `readme` files will be finished later in time... I've just had this repo sit
 * 1st semester
     * IZP can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/izp)
 * 2nd semester
-    * INC can be found [addess terminal](https://github.com/martycagas/but-fit-heap/tree/master/inc/fpga)
+    * INC can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/inc/fpga)
     * IOS [inter-process synchronization](https://github.com/martycagas/but-fit-projects/tree/master/ios-2)
     * IVH [lights out](https://github.com/martycagas/but-fit-projects/tree/master/ivh-lights-out)
     * ISJ can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/isj/proj2)
