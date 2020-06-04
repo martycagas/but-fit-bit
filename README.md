@@ -1,4 +1,4 @@
-# but-fit-projects
+# but-fit-bit
 
 A cumulative repository for my finished university projects.
 
