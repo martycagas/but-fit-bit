@@ -14,19 +14,19 @@ All `readme` files will be finished later in time... I've just had this repo sit
     * IZP can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/izp)
 * 2nd semester
     * INC can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/inc/fpga)
-    * IOS [inter-process synchronization](https://github.com/martycagas/but-fit-projects/tree/master/ios-2)
-    * IVH [lights out](https://github.com/martycagas/but-fit-projects/tree/master/ivh-lights-out)
+    * IOS [inter-process synchronization](./ios-2)
+    * IVH [lights out](./ivh-lights-out)
     * ISJ can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/isj/proj2)
 * 3rd semester
     * IAL can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/ial)
-    * INP [matrix display with FPGA](https://github.com/martycagas/but-fit-projects/tree/master/inp-1)
-    * INP [brainlove interpreter](https://github.com/martycagas/but-fit-projects/tree/master/inp-2)
-    * IPA [NEON algorithm acceleration](https://github.com/martycagas/but-fit-projects/tree/master/ipa-arm-neon)
+    * INP [matrix display with FPGA](./inp-1)
+    * INP [brainlove interpreter](./inp-2)
+    * IPA [NEON algorithm acceleration](./ipa-arm-neon)
 * 4th semester
-    * IDS [database script](https://github.com/martycagas/but-fit-projects/tree/master/ids)
-    * IPK [ARP scanner](https://github.com/martycagas/but-fit-projects/tree/master/ipk-arp-scan)
+    * IDS [database script](./ids)
+    * IPK [ARP scanner](./ipk-arp-scan)
     * IPP XQR - XML query can be found [here](https://github.com/martycagas/but-fit-heap/tree/master/ipp-xqr)
-    * IPP [Syntax highlighting](https://github.com/martycagas/but-fit-projects/tree/master/ipp-syn)
-    * IJA [Solitaire in Swing](https://github.com/martycagas/but-fit-projects/tree/master/ija-solitaire)
+    * IPP [Syntax highlighting](./ipp-syn)
+    * IJA [Solitaire in Swing](./ija-solitaire)
 * 5th semester
     * TBA
